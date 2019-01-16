@@ -18,14 +18,19 @@ Once a test is run, it will return one of three possible outcomes.
 
 ### Passed
 The test completed and returned a successful outcome. If there are any success messages from the test, they will be displayed (i.e. "the test received the expected outcome of xxxx").
+
 ![enter image description here](https://i.imgur.com/fnPMZgT.png)
 
 ## Error
 The test completed, but the outcome was not as expected. The response message will give insight as to what the issue is. For example, in the image below, the test which tries to connect to Emory's REDCap database failed because the API credentials in the test script were incorrect.
+
 ![enter image description here](https://i.imgur.com/3OBk87p.png)
 
 ## Script Error
+There was an error in the test script itself, and so the test could not be completed. This requires debugging of the test script and to remove any elements that could be causing a fatal error 
+
+![enter image description here](https://i.imgur.com/WrsFVTX.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE2NDcwNjddfQ==
+eyJoaXN0b3J5IjpbLTEzNzYyNjQwMDNdfQ==
 -->
