@@ -17,7 +17,11 @@ To run all tests, scroll to the bottom of the page and click the blue button lab
 Once a test is run, it will return one of three possible outcomes.
 
 ### Passed
-The test returne
+The test completed and returned a successful outcome. If there are any success messages from the test, they will be displayed (i.e. "the test received the expected outcome of xxxx").
+![enter image description here](https://i.imgur.com/fnPMZgT.png)
+
+## Error
+The test completed, but the outcome was not 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2NDQ4MjkxXX0=
+eyJoaXN0b3J5IjpbNTcyNTcxOTc0XX0=
 -->
