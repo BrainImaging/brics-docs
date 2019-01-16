@@ -8,6 +8,9 @@ Currently, the main BrICS installation at https://brics.me utilizes Auth0 with s
 ## Creating a New User
 
 From the User Management view, click **Create New**. A template will load. All fields with asterisks are required to be filled out.
+
+![enter image description here](https://i.imgur.com/g7xecEA.png)
+
 ### username
 The username for this user. When using Shibboleth at Emory, this will be user's NetID. When using Auth0 (default), this will be the [local-part](https://en.wikipedia.org/wiki/Email_address#Local-part) of the user's email address. For example, if I login with coolbricsuser101@gmail.com, my username would be **coolbricsuser101**.
 
@@ -24,7 +27,12 @@ A field that specifies whether the user should be a BrICS administrator. By defa
 ### project_list
 This field is a list of projects the user should have access to. Select **Add Item** for each project the user should have access to. For each project, you will need to type in the **project_id** (see [Project Management](project/) for more info on this field). If you start typing in a project_id, an autocomplete field will popup.
 
-> Written with [StackEdit](https://stackedit.io/).
+![enter image description here](https://i.imgur.com/23lovHm.png)
+
+## Editing Users
+
+You can edit an existing user by selecting it from the drop-down menu in the User Management view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5OTQxMjEzLDExMzg2ODQxNzBdfQ==
+eyJoaXN0b3J5IjpbNDM0MjAwNzE5LDQyOTk0MTIxMywxMTM4Nj
+g0MTcwXX0=
 -->
