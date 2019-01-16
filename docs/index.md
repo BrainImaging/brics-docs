@@ -12,7 +12,7 @@ This guide is built using [Read the Docs](https://readthedocs.org). The Markdown
 ## Chapters
 This guide consists of several chapters, each of which can be accessed from the site's navigation menu or the table of contents below.
 
- -[ **Administration**](../admin) - how to set up projects, users, and settings for BrICS
+ - [ **Administration**](../admin) - how to set up projects, users, and settings for BrICS
  - **Interface Overview** - information on the main BrICS interface
  - **Importing Data** - how to import data from MIDAS and upload DICOM files
  - **Contouring** - how to make, view, and export contours
@@ -22,5 +22,5 @@ This guide consists of several chapters, each of which can be accessed from the 
 
 Copyright 2019 Saumya Gurbani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3NjQyMzYsLTEwODUzODE4NTJdfQ==
+eyJoaXN0b3J5IjpbMTkxNzUzNzQ4OCwtMTA4NTM4MTg1Ml19
 -->
