@@ -27,10 +27,10 @@ The test completed, but the outcome was not as expected. The response message wi
 ![enter image description here](https://i.imgur.com/3OBk87p.png)
 
 ## Script Error
-There was an error in the test script itself, and so the test could not be completed. This requires debugging of the test script and to remove any elements that could be causing a fatal error 
+There was an error in the test script itself, and so the test could not be completed. This requires debugging of the test script and to remove any elements that could be causing a fatal error that prevents the script crom completing.
 
 ![enter image description here](https://i.imgur.com/WrsFVTX.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYyNjQwMDNdfQ==
+eyJoaXN0b3J5IjpbMTk2NDg1ODgxMl19
 -->
