@@ -1,4 +1,4 @@
-# BrICS Admin
+# Admin Module
 
 This portion of the guide will show you how to use the Admin module to set up projects, users, and manage other settings for BrICS.
 
@@ -21,3 +21,6 @@ The Admin module has four basic views, which can be accessed from the top menu b
  - User Management
  - Environmental Variables
  - Unit Testing
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTE1OTY3MzM0XX0=
+-->
