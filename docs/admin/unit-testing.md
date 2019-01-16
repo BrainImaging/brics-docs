@@ -11,7 +11,12 @@ To run all tests within a category, click the **Run All** button for that catego
 > **Note**: The first time a test is run, it will be in the "Uncategorized" category. Once it successfully completes, it will go into it's specified category.
 
 To run all tests, scroll to the bottom of the page and click the blue button labeled **RUN ALL TESTS**.
-> **Note**: Running all tests can take a long time, and will lock up the BrICS server in the interim. This is important to run if there have been major changes 
+> **Note**: Running all tests can take a long time, and will lock up the BrICS server while these are running. This is important to run if there have been major changes made to the code base, and should be run when others are not expecting to use the app.
+> 
+## Assessing Test Results
+Once a test is run, it will return one of three possible outcomes.
+
+### Passed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTE5Njg5NF19
+eyJoaXN0b3J5IjpbLTY1NjI3NjIxM119
 -->
