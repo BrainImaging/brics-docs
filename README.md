@@ -1,5 +1,6 @@
 
 # BrICS Documentation
+![enter image description here](https://readthedocs.org/projects/brics/badge/?version=latest)
 
 This repository is for the documentation of the [BrICS](https://github.com/sgurbani/brics) project, designed to be run on [Read the Docs](https://readthedocs.org). It is a separate repository because the primary project repository is private and so cannot be run in Read the Docs.
 
@@ -7,5 +8,5 @@ The markup and pip configuration files are in the root folder of this repository
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjM4NjYzM119
+eyJoaXN0b3J5IjpbMTQ2MzQ3NjE2OCwtODM2Mzg2NjMzXX0=
 -->
