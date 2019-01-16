@@ -5,8 +5,9 @@ BrICS consists of many different components. One of the core components is a C++
 
 Each variable has two fields:
 
- - **name**: the variable name. This is what libbrics will use to find the value. Some  existing variables include *skull_st
+ - **name**: the variable name. This is what libbrics will use to find the value. Some  existing variables include *skull_stripper_atlas_image_file* and *skull_stripper_atlas_mask_file*, which are used to identify files that are needed for the Skull Stripper algorithm.
+ - **value**: the value that the variable will evaluate to when called in libbrics. This  will always be processed as a string (i.e. you cannot put scripting or code in here). For variables that need a filepath, double click on this field to bring up the file
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODc5MTEwMF19
+eyJoaXN0b3J5IjpbLTIwMTIyNjUyMzRdfQ==
 -->
