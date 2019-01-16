@@ -8,7 +8,10 @@ To run a single test, click the **Run** button next to a test. The server will k
 
 To run all tests within a category, click the **Run All** button for that category.
 
-> **Note
+> **Note**: The first time a test is run, it will be in the "Uncategorized" category. Once it successfully completes, it will go into it's specified category.
+
+To run all tests, scroll to the bottom of the page and click the blue button labeled **RUN ALL TESTS**.
+> **Note**: Running all tests can take a long time, and will lock up the BrICS server in the interim. This is important to run if there have been major changes 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzNjEwOTg3XX0=
+eyJoaXN0b3J5IjpbMTcwNTE5Njg5NF19
 -->
