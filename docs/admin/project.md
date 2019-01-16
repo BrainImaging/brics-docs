@@ -45,7 +45,7 @@ This field indicates whether or not the Gaussian Mixture Model autonormalization
 ### redcap
 This set of fields allows this BrICS project to be connected to a REDCap database for pulling in subject metadata.
 
- - **api_url**: The API URL for the REDCap database. Please check the REDCap database's documentation for what URL to put here. It needs to end with a forward slash (**/**).
+ - **api_url**: The API URL for the REDCap database. Please check the REDCap database's documentation for what URL to put here. It needs to end with a forward slash (`/`).
  - **api_token**: An alphanumeric string that is your authentication token to access REDCap. You will need to contact your REDCap administrator to get this token.
  - **subject_variable**: This is the ID of the variable in REDCap that corresponds to subject ID. Depending on how REDCap is set up, this may be called various things such as **subject_id**, **study_id**, etc. This is necessary, as it allows BrICS to search for a specific subject in REDCap.
 > NOTE: Do **NOT** use any field that contains PHI for the subject_ variable. BrICS is not HIPAA compliant and this should only query based on a de-identified subject ID.
@@ -61,7 +61,7 @@ You can edit an existing project by selecting it from the drop-down menu in the 
 
 ## Next Steps
 
-Once a project has been created (or edited), you will want to assign which Users should have access to it. Go to User Management.
+Once a project has been created (or edited), you will want to assign which Users should have access to it. Go to [User Management](user/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU0MjU4MzFdfQ==
+eyJoaXN0b3J5IjpbLTk1OTgwNjAxMF19
 -->
