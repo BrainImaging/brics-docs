@@ -14,8 +14,13 @@ Once this guide is generated using MkDocs, the static HTML files are uploaded to
 This guide consists of several chapters, each of which can be accessed from the site's navigation menu or the table of contents below.
 
  - **Administration** - how to set up projects, users, and settings for BrICS
- - **Viewer** - the main BN
+ - **Interface Overview** - information on the main BrICS interface
+ - **Importing Data** - how to import data from MIDAS and upload DICOM files
+ - **Contouring** - how to make, view, and export contours
+ - **Algorithms** - an overview of the additional algorithm modules available in BrICS
 
+
+Cop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA4NjM4NF19
+eyJoaXN0b3J5IjpbMTQ2MzEwODQ0M119
 -->
