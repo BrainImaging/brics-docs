@@ -22,8 +22,9 @@ What the user will be displayed as in BrICS. Often, we'll use a full name with c
 A field that specifies whether the user should be a BrICS administrator. By default, this should be set to **False**; for developers and project leads, this should be set to **True**.
 
 ### project_list
-This field is a list of projects the user should have access to. Select **Add Item** for each project 
+This field is a list of projects the user should have access to. Select **Add Item** for each project the user should have access to. For each project, you will need to type in the **project_id** (see [Project Management](project/) for more info on this field). If you start typing in a project_id, an autocomplete field will popup.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTM3OTQ5MiwxMTM4Njg0MTcwXX0=
+eyJoaXN0b3J5IjpbNDI5OTQxMjEzLDExMzg2ODQxNzBdfQ==
 -->
