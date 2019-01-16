@@ -20,7 +20,8 @@ This guide consists of several chapters, each of which can be accessed from the 
  - **Algorithms** - an overview of the additional algorithm modules available in BrICS
 
 
-Cop
+
+Copyright 2019 Saumya Gurbani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzEwODQ0M119
+eyJoaXN0b3J5IjpbLTEwODUzODE4NTJdfQ==
 -->
