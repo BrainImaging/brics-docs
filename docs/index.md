@@ -13,8 +13,9 @@ Once this guide is generated using MkDocs, the static HTML files are uploaded to
 ## Chapters
 This guide consists of several chapters, each of which can be accessed from the site's navigation menu or the table of contents below.
 
- - ### dsds
+ - **Administration** - how to set up projects, users, and settings for BrICS
+ - **Viewer** - the main BN
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzI0MTMxOF19
+eyJoaXN0b3J5IjpbLTExODA4NjM4NF19
 -->
