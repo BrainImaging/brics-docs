@@ -6,7 +6,7 @@ Welcome to the official user guide for BrICS - the Brain Imaging Collaboration S
 > Note: the BrICS project is currently stored in a private repository. Contact one of the members of the Shim Lab if you are interested in becoming a developer. A licensing agreement and inter-institutional research agreement may be necessary for researchers outside of Emory University.
 
 ## Building this Guide
-This guide is built using  
+This guide is built using [MkDocs](https://www.mkdocs.org/), a software package that converts Markdown files into a static website. The Markdown and configuration files for this guide are hosted in a separate GitHub repository at https://github.com/sg 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTc0MzAyOF19
+eyJoaXN0b3J5IjpbMTEyMjkyODAyNF19
 -->
