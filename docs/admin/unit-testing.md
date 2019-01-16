@@ -22,7 +22,10 @@ The test completed and returned a successful outcome. If there are any success m
 
 ## Error
 The test completed, but the outcome was not as expected. The response message will give insight as to what the issue is. For example, in the image below, the test which tries to connect to Emory's REDCap database failed because the API credentials in the test script were incorrect.
+![enter image description here](https://i.imgur.com/3OBk87p.png)
+
+## Script Error
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgxOTMxNDZdfQ==
+eyJoaXN0b3J5IjpbLTEyOTE2NDcwNjddfQ==
 -->
