@@ -3,7 +3,7 @@
 The Projects tab allows the creation of new BrICS projects and editing of existing ones. Let's start by creating a new project, and then walking through how to set it up.
 
 ## Create a New Project
-Make sure you are on the Projects tab. Then, click "Create New". A template for a new project will then load.
+Make sure you are on the Projects tab. Then, click **Create New**. A template for a new project will then load.
 ![enter image description here](https://i.imgur.com/jpkMCPn.png)	
 
 All fields with an asterisk need to be filled out, though in general it is good to fill out all fields as needed. We will go through each of them one by one below.
@@ -30,7 +30,7 @@ Ratio images,, for obvious reasons, do not need a value for this field.
 ### midas_autoscan
 If you want this BrICS project to be tied to a MIDAS project (which, in most cases, you do), then specify the location of the project here. Remember, **the location of the project must be from the context of the BrICS server**; BrICS does not have access to your local hardrive. A good way to have a project that can be both edited using MIDAS on your local computer and visible to BrICS is to put it on a shared drive accessible by both machines. 
 
-Double-lick on the field to open up a server-side file browser. Our laboratory's shared drive (the so-called **ShimLab Array** or Synology Array) is already mounted on BrICS server under **/array**, so you can access projects from within there.
+Double-lick on the field to open up a server-side file browser. Our laboratory's shared drive (the so-called **ShimLab Array** or Synology Array) is already mounted on BrICS server under `/array`, so you can access projects from within there.
 
 ![enter image description here](https://i.imgur.com/Da2I24F.png)
 
@@ -62,3 +62,6 @@ You can edit an existing project by selecting it from the drop-down menu in the 
 ## Next Steps
 
 Once a project has been created (or edited), you will want to assign which Users should have access to it. Go to User Management.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4MzU0MjU4MzFdfQ==
+-->
