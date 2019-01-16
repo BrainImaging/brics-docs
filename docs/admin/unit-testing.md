@@ -21,7 +21,8 @@ The test completed and returned a successful outcome. If there are any success m
 ![enter image description here](https://i.imgur.com/fnPMZgT.png)
 
 ## Error
-The test completed, but the outcome was not 
+The test completed, but the outcome was not as expected. The response message will give insight as to what the issue is. For example, in the image below, the test which tries to connect to Emory's REDCap database failed because the API credentials in the test script were incorrect.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyNTcxOTc0XX0=
+eyJoaXN0b3J5IjpbLTEyNTgxOTMxNDZdfQ==
 -->
