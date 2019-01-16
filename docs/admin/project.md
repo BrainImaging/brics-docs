@@ -61,7 +61,7 @@ You can edit an existing project by selecting it from the drop-down menu in the 
 
 ## Next Steps
 
-Once a project has been created (or edited), you will want to assign which Users should have access to it. Go to [User Management](/user/).
+Once a project has been created (or edited), you will want to assign which Users should have access to it. Go to [User Management](../user/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA3NzIyMTNdfQ==
+eyJoaXN0b3J5IjpbLTExMTQ2OTc0NjFdfQ==
 -->
