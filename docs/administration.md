@@ -18,9 +18,9 @@ You will then be taken to the Admin Module.
 The Admin module has four basic views, which can be accessed from the top menu bar. We will go through each of these on its own page.
 
  - [Project Management](#project-management)
- - [User Management](../admin/user)
- - [Environmental Variables](../admin/environment)
- - [Unit Testing](../admin/unit-test)
+ - [User Management](#user-management)
+ - [Environmental Variables](#environmental-variables)
+ - [Unit Testing](#unit-testing)
 
 # Project Management
 
@@ -85,7 +85,7 @@ You can edit an existing project by selecting it from the drop-down menu in the 
 
 ## Next Steps
 
-Once a project has been created (or edited), you will want to assign which Users should have access to it. Go to [User Management](../user/).
+Once a project has been created (or edited), you will want to assign which Users should have access to it. Go to [User Management](#user-management).
 
 
 # User Management
@@ -159,16 +159,16 @@ The test completed and returned a successful outcome. If there are any success m
 
 ![enter image description here](https://i.imgur.com/fnPMZgT.png)
 
-## Error
+### Error
 The test completed, but the outcome was not as expected. The response message will give insight as to what the issue is. For example, in the image below, the test which tries to connect to Emory's REDCap database failed because the API credentials in the test script were incorrect.
 
 ![enter image description here](https://i.imgur.com/3OBk87p.png)
 
-## Script Error
+### Script Error
 There was an error in the test script itself, and so the test could not be completed. This requires debugging of the test script and to remove any elements that could be causing a fatal error that prevents the script crom completing.
 
 ![enter image description here](https://i.imgur.com/WrsFVTX.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDc5MTU4OV19
+eyJoaXN0b3J5IjpbMTM4Mzc0ODc2OV19
 -->
