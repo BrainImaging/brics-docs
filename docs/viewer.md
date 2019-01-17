@@ -52,7 +52,11 @@ As can be seen in the flow diagram above, a Structure is tied to a Study, not to
 
 #### UID
 Every Structure has a UID for identification.
+
+# Selecting a Project
+
+# Loading a Study
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODY0OTg1MywxNzQ1MDgyODk3LC01Mj
-U3ODc5OTUsNTU2Njk0NDQ0XX0=
+eyJoaXN0b3J5IjpbMTE1NzIzMjg2MSwtOTk4NjQ5ODUzLDE3ND
+UwODI4OTcsLTUyNTc4Nzk5NSw1NTY2OTQ0NDRdfQ==
 -->
