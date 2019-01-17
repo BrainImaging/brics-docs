@@ -28,7 +28,8 @@ The main working unit of BrICS is the Study. A Study represents a set of images 
 
 In the standard DICOM lexicon, a study corresponds to a specific imaging session. For clinical MRI, a study often consists of multiple sequences (known as series) that are performed while the subject is in the scanner. A study in DICOM is always performed in one session. As such, it only contains one imaging modality (e.g. MRI or CT, but not both).
 
-In BrICS, we expand the definition of Study to allow for images that are taken during different imaging sessions This can mean the same imaging modality from different dates/times, or different modalities. We do this because often we want to compare spectroscopic MRI data alongside other imaging modalities 
+In BrICS, we expand the definition of Study to allow for images that are taken during different imaging sessions This can mean the same imaging modality from different dates/times, or different modalities. We do this because often we want to compare spectroscopic MRI data alongside other imaging modalities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTc4Nzk5NSw1NTY2OTQ0NDRdfQ==
+eyJoaXN0b3J5IjpbLTEzNDIyMzk4ODksLTUyNTc4Nzk5NSw1NT
+Y2OTQ0NDRdfQ==
 -->
