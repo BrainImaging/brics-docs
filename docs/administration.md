@@ -17,7 +17,7 @@ You will then be taken to the Admin Module.
 ## Admin Module Components
 The Admin module has four basic views, which can be accessed from the top menu bar. We will go through each of these on its own page.
 
- - [Project Management](project)
+ - [Project Management](#project-management)
  - [User Management](../admin/user)
  - [Environmental Variables](../admin/environment)
  - [Unit Testing](../admin/unit-test)
@@ -170,5 +170,5 @@ There was an error in the test script itself, and so the test could not be compl
 ![enter image description here](https://i.imgur.com/WrsFVTX.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA2ODU0MDRdfQ==
+eyJoaXN0b3J5IjpbMTMzMDc5MTU4OV19
 -->
