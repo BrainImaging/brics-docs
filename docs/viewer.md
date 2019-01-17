@@ -8,11 +8,11 @@ Within BrICS, we try to use lexicon from the DICOM standard for medical imaging 
 
 ```mermaid
 graph TB
-A[Project] -- contains --> B(Subject)
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+A(Project) --> B(Subject)
+B --> C(Study)
+C --> D(Series)
+C --> E(Structure)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzkwNjQyMl19
+eyJoaXN0b3J5IjpbMjExMjE4Mzc1NF19
 -->
