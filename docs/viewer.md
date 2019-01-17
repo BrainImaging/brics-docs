@@ -46,8 +46,10 @@ Every series has its own UID for identification.
 
 ### Structure
 
-A Structure, also known as a contour, represents a segmentation on top of an image. It can be used for annotating different parts of the image, 
+A Structure, also known as a contour, represents a segmentation on top of an image. It can be used for annotating different parts of the image, for identifying a target volume, or for indicating a region-of-interest.
+
+As can be seen in the flow diagram above, a Structure is tied to a Study, not to any specific Series within the Study. In fact, it will be tied to the Study's reference series. Because all Series within a Study are co-registered
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzI5Mjc0NiwxNzQ1MDgyODk3LC01Mj
-U3ODc5OTUsNTU2Njk0NDQ0XX0=
+eyJoaXN0b3J5IjpbMTk0MDUwOCwxNzQ1MDgyODk3LC01MjU3OD
+c5OTUsNTU2Njk0NDQ0XX0=
 -->
