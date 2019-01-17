@@ -1,3 +1,4 @@
 mkdocs-material
 mkdocs-cinder
+BeautifulSoup4
 mkdocs-mermaid-plugin
