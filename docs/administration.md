@@ -115,7 +115,7 @@ What the user will be displayed as in BrICS. Often, we'll use a full name with c
 A field that specifies whether the user should be a BrICS administrator. By default, this should be set to **False**; for developers and project leads, this should be set to **True**.
 
 ### project_list
-This field is a list of projects the user should have access to. Select **Add Item** for each project the user should have access to. For each project, you will need to type in the **project_id** (see [Project Management](../project/) for more info on this field). If you start typing in a project_id, an autocomplete field will popup.
+This field is a list of projects the user should have access to. Select **Add Item** for each project the user should have access to. For each project, you will need to type in the **project_id** (see [Project Management](#project-management) for more info on this field). If you start typing in a project_id, an autocomplete field will popup.
 
 ![enter image description here](https://i.imgur.com/23lovHm.png)
 
@@ -170,5 +170,5 @@ There was an error in the test script itself, and so the test could not be compl
 ![enter image description here](https://i.imgur.com/WrsFVTX.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mzc0ODc2OV19
+eyJoaXN0b3J5IjpbMTk1MDc0MDg4Nl19
 -->
