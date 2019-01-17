@@ -58,7 +58,8 @@ Once you're logged in to BrICS, the project selection window will pop up. A list
 ![enter image description here](https://i.imgur.com/7saZZWv.png)
 
 ## Loading a Study
+Once a Project is loaded, there are two different ways to load a study. The first is the basic view; this is the default screen that is shown. It consists of a list of Subjects available in this Project. Clicking on a Subject will be bring up all the Studies 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDA1MTM0OCwtOTk4NjQ5ODUzLDE3ND
-UwODI4OTcsLTUyNTc4Nzk5NSw1NTY2OTQ0NDRdfQ==
+eyJoaXN0b3J5IjpbOTU3MzU4MzA5LC05OTg2NDk4NTMsMTc0NT
+A4Mjg5NywtNTI1Nzg3OTk1LDU1NjY5NDQ0NF19
 -->
