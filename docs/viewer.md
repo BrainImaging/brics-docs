@@ -75,9 +75,12 @@ Once a Study has been selected, the application will load all Series and display
 
 ![enter image description here](https://i.imgur.com/OL0Jby3.png)
 
-In the main view, four images can be seen. The large ima
+In the main view, four images can be seen. The large image on the left is the **Primary Frame**, while additional Frames can be seen in the quadrangle on the right.
+
+At the bottom of each Frame is the name of the Series c
+Clicking on the name of each Frame's (e.g. "CHO/NAA" in the above screenshot) will reveal a dropdown menu. Any 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTM2ODcxOSwtMzQ4MTg0NzEsLTEzNj
-U3MjM0MDAsLTk5ODY0OTg1MywxNzQ1MDgyODk3LC01MjU3ODc5
-OTUsNTU2Njk0NDQ0XX0=
+eyJoaXN0b3J5IjpbLTE2NzM4NDAxNDUsLTM0ODE4NDcxLC0xMz
+Y1NzIzNDAwLC05OTg2NDk4NTMsMTc0NTA4Mjg5NywtNTI1Nzg3
+OTk1LDU1NjY5NDQ0NF19
 -->
