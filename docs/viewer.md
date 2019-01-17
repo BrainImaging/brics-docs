@@ -21,7 +21,11 @@ A Project also consists of several settings (see the chapter on Administration),
 
 ### Subject
 
-A Subject represents a subject (whether a volunteer, patient, a phantom, or an artificial data set). Every Subject in a Project must have a unique **subject_id**, which is an alpha-numeric string 
+A Subject represents a subject (whether a volunteer, patient, a phantom, or an artificial data set). Every Subject in a Project must have a unique **subject_id**, which is an alpha-numeric string; it should not contain any PHI.
+
+### Study
+The main working unit of BrICS is the Study. A Study represents a set of images acquired (or generated) for a Subject that are meant to be considered concurrently for visualization or analysis.
+In the standard DICOM lexicon, a study corresponds to a specific imaging session; f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODgzNjU4MTYsNTU2Njk0NDQ0XX0=
+eyJoaXN0b3J5IjpbLTEyOTU0MjIwMDAsNTU2Njk0NDQ0XX0=
 -->
