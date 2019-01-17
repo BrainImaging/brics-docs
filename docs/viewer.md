@@ -58,8 +58,14 @@ Once you're logged in to BrICS, the project selection window will pop up. A list
 ![enter image description here](https://i.imgur.com/7saZZWv.png)
 
 ## Loading a Study
-Once a Project is loaded, there are two different ways to load a study. The first is the basic view; this is the default screen that is shown. It consists of a list of Subjects available in this Project. Clicking on a Subject will be bring up all the Studies 
+Once a Project is loaded, there are two different ways to load a study. The first is the basic view; this is the default screen that is shown. It consists of a list of Subjects available in this Project. Clicking on a Subject will be bring up all the Studies contained within that Subject. The Studies are referred to by their date.
+![enter image description here](https://i.imgur.com/Vy6z3sB.png)
+
+Click on any of the Studies to load it.
+
+### Advanced View
+To view more details for the Subjects and Studies available, click on the **Advanced Mode** button at the bottom of the Subject list. This will take you to a new page
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MzU4MzA5LC05OTg2NDk4NTMsMTc0NT
-A4Mjg5NywtNTI1Nzg3OTk1LDU1NjY5NDQ0NF19
+eyJoaXN0b3J5IjpbLTEzNjU3MjM0MDAsLTk5ODY0OTg1MywxNz
+Q1MDgyODk3LC01MjU3ODc5OTUsNTU2Njk0NDQ0XX0=
 -->
