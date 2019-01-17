@@ -87,9 +87,16 @@ The top button is the "Switch Orientation" button. It has a label indicating the
 
 ![enter image description here](https://i.imgur.com/QX4y3MH.png)
 
-> **Pro tip**: orientations can also be toggled by cl
+> **Pro tip**: orientations can also be toggled by pressing the **X** on your keyboard.
+> 
+#### Two Image View
+#### Spectrum Viewer
+#### Algorithms
+#### Contouring
+#### Voxel-by-Voxel Comparison
+#### Metadata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MDI1MDMsLTM0ODE4NDcxLC0xMzY1Nz
-IzNDAwLC05OTg2NDk4NTMsMTc0NTA4Mjg5NywtNTI1Nzg3OTk1
-LDU1NjY5NDQ0NF19
+eyJoaXN0b3J5IjpbMjQzOTI3OTM5LC0zNDgxODQ3MSwtMTM2NT
+cyMzQwMCwtOTk4NjQ5ODUzLDE3NDUwODI4OTcsLTUyNTc4Nzk5
+NSw1NTY2OTQ0NDRdfQ==
 -->
