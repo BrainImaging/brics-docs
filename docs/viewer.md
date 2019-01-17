@@ -71,8 +71,13 @@ To view more details for the Subjects and Studies available, click on the **Adva
 This view is primarily used for importing and editing data, so we'll cover this in a different chapter. However, one can click the blue **Load Study** button to load the desired Study.
 
 ## Main Viewer
+Once a Study has been selected, the application will load all Series and display them in the main viewer. The loading process may take several seconds, depending on how many Series need to be loaded. During the loading process, all Series are read from disk, aligned to the Study reference, and converted to a web-friendly format.
+
+![enter image description here](https://i.imgur.com/OL0Jby3.png)
+
+In the main view, four images can be seen. The large ima
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODE4NDcxLC0xMzY1NzIzNDAwLC05OT
-g2NDk4NTMsMTc0NTA4Mjg5NywtNTI1Nzg3OTk1LDU1NjY5NDQ0
-NF19
+eyJoaXN0b3J5IjpbLTcyMTM2ODcxOSwtMzQ4MTg0NzEsLTEzNj
+U3MjM0MDAsLTk5ODY0OTg1MywxNzQ1MDgyODk3LC01MjU3ODc5
+OTUsNTU2Njk0NDQ0XX0=
 -->
