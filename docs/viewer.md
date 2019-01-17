@@ -16,7 +16,12 @@ C --> E(Structure)
 ### Project
 A project is the top-level object in the hierarchy, and represents a group of subjects who are to be analyzed together. It can be all the subjects within a clinical study, for example, or all the subjects for a particular analysis that you are trying to do. The Project level is also where authentication occurs for users; users are assigned to specific Projects, and if they don't have access to a Project, they  cannot access any of the data within that project.
 
-Internally, a project ID is attached to ever
+A Project also consists of several settings (see the chapter on Administration), which are applied to all objects within the Project.
+> Internally, a project ID is attached to every object stored in the database. This allows the software to quickly determine which Project settings to use.
+
+### Subject
+
+A subject 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU1Nzg5MjBdfQ==
+eyJoaXN0b3J5IjpbNzcxOTQxNTUyXX0=
 -->
