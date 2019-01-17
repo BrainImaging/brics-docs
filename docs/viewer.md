@@ -83,11 +83,13 @@ At the bottom of each Frame is the name of the Series currently being shown. Cli
 The Toolbar is the vertical list of buttons on the right-hand side of the viewer. We will go through each of the buttons' actions in this section.
 
 #### Switching Orientation
-The top button is the "Switch Orientation" button. It has a label indicating the current orientation - **Ax**, **Sag**, or **Cor**, representing Axial, Sagittal, or Coronal views, respectively.
+The top button is the "Switch Orientation" button. It has a label indicating the current orientation - **Ax**, **Sag**, or **Cor**, representing Axial, Sagittal, or Coronal views, respectively. Hovering over this button expands out a menu, allowing you to switch between orientations.
 
-Howeving
+![enter image description here](https://i.imgur.com/QX4y3MH.png)
+
+> **Pro tip**: orientations can also be toggled by cl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODU0MTQ2NCwtMzQ4MTg0NzEsLTEzNj
-U3MjM0MDAsLTk5ODY0OTg1MywxNzQ1MDgyODk3LC01MjU3ODc5
-OTUsNTU2Njk0NDQ0XX0=
+eyJoaXN0b3J5IjpbODk2MDI1MDMsLTM0ODE4NDcxLC0xMzY1Nz
+IzNDAwLC05OTg2NDk4NTMsMTc0NTA4Mjg5NywtNTI1Nzg3OTk1
+LDU1NjY5NDQ0NF19
 -->
