@@ -13,6 +13,8 @@ B --> C(Study)
 C --> D(Series)
 C --> E(Structure)
 ```
+### Project
+A project is the top-level object in the hierarchy, and represents a group of subjects who are to be analyzed together. It can be all the subjects within a clinical study, for example, or all the subjects for a particular analysis that you are trying to do. Users
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjE4Mzc1NF19
+eyJoaXN0b3J5IjpbLTE5NzkwMDE0NzldfQ==
 -->
