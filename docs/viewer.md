@@ -21,7 +21,7 @@ A Project also consists of several settings (see the chapter on Administration),
 
 ### Subject
 
-A Subject represents a subject (whether a volunteer, patient, a phantom, or an artificial data set). Every Subject in a Project must have a unique **s
+A Subject represents a subject (whether a volunteer, patient, a phantom, or an artificial data set). Every Subject in a Project must have a unique **subject_id**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzMzk0NDMyXX0=
+eyJoaXN0b3J5IjpbLTE0MTcwMjg5MDldfQ==
 -->
