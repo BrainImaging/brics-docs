@@ -64,8 +64,9 @@ Once a Project is loaded, there are two different ways to load a study. The firs
 Click on any of the Studies to load it.
 
 ### Advanced View
-To view more details for the Subjects and Studies available, click on the **Advanced Mode** button at the bottom of the Subject list. This will take you to a new page
+To view more details for the Subjects and Studies available, click on the **Advanced Mode** button at the bottom of the Subject list. This will take you to a new page. There is a list of Subjects on the left-hand side of the page. Clicking a Subject will br
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU3MjM0MDAsLTk5ODY0OTg1MywxNz
-Q1MDgyODk3LC01MjU3ODc5OTUsNTU2Njk0NDQ0XX0=
+eyJoaXN0b3J5IjpbNDUyNDM3NDk1LC0xMzY1NzIzNDAwLC05OT
+g2NDk4NTMsMTc0NTA4Mjg5NywtNTI1Nzg3OTk1LDU1NjY5NDQ0
+NF19
 -->
