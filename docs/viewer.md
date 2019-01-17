@@ -64,13 +64,15 @@ Once a Project is loaded, there are two different ways to load a study. The firs
 Click on any of the Studies to load it.
 
 ### Advanced View
-To view more details for the Subjects and Studies available, click on the **Advanced Mode** button at the bottom of the Subject list. This will take you to a new page. There is a list of Subjects on the left-hand side of the page. Clicking a Subject will bring up some additional details about the Subject, along with cards representing each Study. Of note, in the advanced view, a list of all Series present within each Study can be seen.
+To view more details for the Subjects and Studies available, click on the **Advanced Mode** button at the bottom of the Subject list. This will take you to a new page. There is a list of Subjects on the left-hand side of the page. Clicking a Subject will bring up some additional details about the Subject, along with cards representing each Study. Of note, in the advanced view, a list of all Series present within each Study can be seen. The Series that is the Study's reference is indicated by a star.
 
 ![enter image description here](https://i.imgur.com/KGa9WLr.png)
 
 This view is primarily used for importing and editing data, so we'll cover this in a different chapter. However, one can click the blue **Load Study** button to load the desired Study.
+
+## Main Viewer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAyNzUzMTUsLTEzNjU3MjM0MDAsLT
-k5ODY0OTg1MywxNzQ1MDgyODk3LC01MjU3ODc5OTUsNTU2Njk0
-NDQ0XX0=
+eyJoaXN0b3J5IjpbLTM0ODE4NDcxLC0xMzY1NzIzNDAwLC05OT
+g2NDk4NTMsMTc0NTA4Mjg5NywtNTI1Nzg3OTk1LDU1NjY5NDQ0
+NF19
 -->
