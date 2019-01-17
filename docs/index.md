@@ -1,4 +1,4 @@
-# BrICS User Guide
+# Introduction
 
 > Created by Saumya Gurbani
 
@@ -22,6 +22,7 @@ This guide consists of several chapters, each of which can be accessed from the 
 
 Copyright 2019 Saumya Gurbani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE3MDUzNTUsMjA3ODAwOTMzMyw0NT
-Y4ODAzODIsMTkxNzUzNzQ4OCwtMTA4NTM4MTg1Ml19
+eyJoaXN0b3J5IjpbLTQ1NDQwMTc1LC0xNzAxNzA1MzU1LDIwNz
+gwMDkzMzMsNDU2ODgwMzgyLDE5MTc1Mzc0ODgsLTEwODUzODE4
+NTJdfQ==
 -->
