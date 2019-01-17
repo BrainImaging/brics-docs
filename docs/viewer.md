@@ -35,8 +35,8 @@ In BrICS, we expand the definition of Study to allow for series that are taken d
 Similar to DICOM, every Study is identified by a [universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier), a long period-separated numeric string.
 
 #### Reference Series
-Every Study contains one series which is considered to be the reference series. This is typically a high-resolution structure MRI, e.g. T1w MRI. All other series in this Study will be registered and aligned to this study. This allows for quick generation of 
+Every Study contains one series which is considered to be the reference series. This is typically a high-resolution structure MRI, e.g. T1w MRI. All other series in this Study will be registered and aligned to this study. This allows voxel-to-voxel comparison of series within the same study, and allows Structures to be shared
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM1NzA1ODEsLTUyNTc4Nzk5NSw1NT
+eyJoaXN0b3J5IjpbLTEzNTIxMjI1OTksLTUyNTc4Nzk5NSw1NT
 Y2OTQ0NDRdfQ==
 -->
