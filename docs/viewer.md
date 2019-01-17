@@ -77,10 +77,13 @@ Once a Study has been selected, the application will load all Series and display
 
 In the main view, four images can be seen. The large image on the left is the **Primary Frame**, while additional Frames can be seen in the quadrangle on the right.
 
-At the bottom of each Frame is the name of the Series c
-Clicking on the name of each Frame's (e.g. "CHO/NAA" in the above screenshot) will reveal a dropdown menu. Any 
+At the bottom of each Frame is the name of the Series currently being shown. Clicking on this name will reveal a dropdown menu to allow you to select other Series to display. Depending on the Project's settings, certain Series will be displayed by default.
+
+## Toolbar
+The Toolbar is the vertical list of buttons on the right-hand side of the viewer. We will go through each of te
+#### Switching Orientation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM4NDAxNDUsLTM0ODE4NDcxLC0xMz
+eyJoaXN0b3J5IjpbLTE2OTc0MjM5NzMsLTM0ODE4NDcxLC0xMz
 Y1NzIzNDAwLC05OTg2NDk4NTMsMTc0NTA4Mjg5NywtNTI1Nzg3
 OTk1LDU1NjY5NDQ0NF19
 -->
