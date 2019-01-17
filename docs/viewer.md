@@ -54,9 +54,11 @@ As can be seen in the flow diagram above, a Structure is tied to a Study, not to
 Every Structure has a UID for identification.
 
 ## Selecting a Project
+Once you're logged in to BrICS, the project selection window will pop up. A list of all Projects which you have access to will be shown. Click on any to load the available Subjects for that Project.
+![enter image description here](https://i.imgur.com/7saZZWv.png)
 
 ## Loading a Study
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzI3MzQ2MSwtOTk4NjQ5ODUzLDE3ND
+eyJoaXN0b3J5IjpbMTMzMDA1MTM0OCwtOTk4NjQ5ODUzLDE3ND
 UwODI4OTcsLTUyNTc4Nzk5NSw1NTY2OTQ0NDRdfQ==
 -->
