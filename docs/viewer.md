@@ -80,10 +80,14 @@ In the main view, four images can be seen. The large image on the left is the **
 At the bottom of each Frame is the name of the Series currently being shown. Clicking on this name will reveal a dropdown menu to allow you to select other Series to display. Depending on the Project's settings, certain Series will be displayed by default.
 
 ## Toolbar
-The Toolbar is the vertical list of buttons on the right-hand side of the viewer. We will go through each of te
+The Toolbar is the vertical list of buttons on the right-hand side of the viewer. We will go through each of the buttons' actions in this section.
+
 #### Switching Orientation
+The top button is the "Switch Orientation" button. It has a label indicating the current orientation - **Ax**, **Sag**, or **Cor**, representing Axial, Sagittal, or Coronal views, respectively.
+
+Howeving
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc0MjM5NzMsLTM0ODE4NDcxLC0xMz
-Y1NzIzNDAwLC05OTg2NDk4NTMsMTc0NTA4Mjg5NywtNTI1Nzg3
-OTk1LDU1NjY5NDQ0NF19
+eyJoaXN0b3J5IjpbLTM0ODU0MTQ2NCwtMzQ4MTg0NzEsLTEzNj
+U3MjM0MDAsLTk5ODY0OTg1MywxNzQ1MDgyODk3LC01MjU3ODc5
+OTUsNTU2Njk0NDQ0XX0=
 -->
