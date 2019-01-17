@@ -39,11 +39,15 @@ Every Study contains one series which is considered to be the reference series. 
 
 ### Series
 
-A Series is a 3D image, either acquired directly from the scanner or generated from post-processing. This corresponds to the DICOM series object. A Series can be of many different underlying formats - such as DICOM, MIDAS, ITK, or a binary blob - and BrICS creates a wrapper to allow different 
+A Series is a 3D image, either acquired directly from the scanner or generated from post-processing. This corresponds to the DICOM series object. A Series can be of many different underlying formats - such as DICOM, MIDAS, ITK, or a binary blob - and BrICS creates a wrapper to allow algorithms and analyses to be run on it.
 
 #### UID
-Every series has its own
+Every series has its own UID for identification.
+
+### Structure
+
+A Structure, also known as a contour, represents a segmentation on top of an image. It can be used for annotating different parts of the image, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTI5OTkxNywxNzQ1MDgyODk3LC01Mj
+eyJoaXN0b3J5IjpbMTg1MzI5Mjc0NiwxNzQ1MDgyODk3LC01Mj
 U3ODc5OTUsNTU2Njk0NDQ0XX0=
 -->
