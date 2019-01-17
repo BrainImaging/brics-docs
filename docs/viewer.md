@@ -28,8 +28,10 @@ The main working unit of BrICS is the Study. A Study represents a set of images 
 
 In the standard DICOM lexicon, a study corresponds to a specific imaging session. For clinical MRI, a study often consists of multiple sequences (known as series) that are performed while the subject is in the scanner. A study in DICOM is always performed in one session. As such, it only contains one imaging modality (e.g. MRI or CT, but not both).
 
-In BrICS, we expand the definition of Study to allow for series that are taken during different imaging sessions This can mean the same imaging modality from different dates/times, or different modalities. We do this because often we want to compare spectroscopic MRI data alongside other imaging modalities. Sometimes, these other modalities may be acquired at a different time or date. While technically a Study could include series from any date, it is generally good practice to group series in a Study if they should be considered together. An example: a patient undergoes the sMRI scan on January 1st, but no contrast-enhanced imaging was done at that time; the contrast-enhanced scan was performed on January 4th, but should be considered part of the same analysis. However, if the contrast-enh
+In BrICS, we expand the definition of Study to allow for series that are taken during different imaging sessions This can mean the same imaging modality from different dates/times, or different modalities. We do this because often we want to compare spectroscopic MRI data alongside other imaging modalities. Sometimes, these other modalities may be acquired at a different time or date. While technically a Study could include series from any date, it is generally good practice to group series in a Study if they should be considered together. An example: a patient undergoes the sMRI scan on January 1st, but no contrast-enhanced imaging was done at that time; the contrast-enhanced scan was performed on January 4th, but should be considered part of the same analysis. However, if the contrast-enhanced scan was done on February 1st, then it really should be part of a different Study.
+
+Similar to DICOM, every Study is identified by a [universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier), a long period-separated numeric string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzIyNDgzMSwtNTI1Nzg3OTk1LDU1Nj
+eyJoaXN0b3J5IjpbLTIxNzQwODQyMCwtNTI1Nzg3OTk1LDU1Nj
 Y5NDQ0NF19
 -->
