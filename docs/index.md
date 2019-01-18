@@ -6,15 +6,15 @@ Welcome to the official user guide for BrICS - the Brain Imaging Collaboration S
 > **Note**: the BrICS project is currently stored in a private repository. Contact one of the members of the Shim Lab if you are interested in becoming a developer. A licensing agreement and inter-institutional research agreement may be necessary for researchers outside of Emory University.
 
 ## Building this Guide
-This guide is built using [Read the Docs](https://readthedocs.org). The Markdown and configuration files for this guide are hosted in a separate GitHub repository at https://github.com/sgurbani/brics-docs.
+This guide is built using [Read the Docs](https://readthedocs.org). The Markdown and configuration files for this guide are hosted in the [brics-docs GitHub repository](https://github.com/sgurbani/brics-docs).
 
 
 ## Chapters
 This guide consists of several chapters, each of which can be accessed from the site's navigation menu.
 
  - **Administration** - how to set up projects, users, and settings for BrICS
- - **Interface Overview** - information on the main BrICS interface
- - **Importing Data** - how to import data from MIDAS and upload DICOM files
+ - **Viewer** - information on the main BrICS interface
+ - **Data Import** - how to import data from MIDAS and upload DICOM files
  - **Contouring** - how to make, view, and export contours
  - **Algorithms** - an overview of the additional algorithm modules available in BrICS
 
@@ -22,7 +22,7 @@ This guide consists of several chapters, each of which can be accessed from the 
 
 Copyright 2019 Saumya Gurbani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDQwMTc1LC0xNzAxNzA1MzU1LDIwNz
-gwMDkzMzMsNDU2ODgwMzgyLDE5MTc1Mzc0ODgsLTEwODUzODE4
-NTJdfQ==
+eyJoaXN0b3J5IjpbMTM4NzMzNzc3MSwtNDU0NDAxNzUsLTE3MD
+E3MDUzNTUsMjA3ODAwOTMzMyw0NTY4ODAzODIsMTkxNzUzNzQ4
+OCwtMTA4NTM4MTg1Ml19
 -->
