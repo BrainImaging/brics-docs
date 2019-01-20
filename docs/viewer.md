@@ -93,12 +93,13 @@ The top button is the "Switch Orientation" button. It has a label indicating the
 The second button on the toolbar has a stylized "2". This is used to toggle between the main multi-paneled view and a view with two large images side-by-side. This view is particularly useful for doing voxel-by-voxel comparisons of either the images or their underling spectra.
 
 #### Spectrum Viewer
+
 #### Algorithms
 #### Contouring
 #### Voxel-by-Voxel Comparison
 #### Metadata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2NzM5NzM2LDI0MzkyNzkzOSwtMzQ4MT
-g0NzEsLTEzNjU3MjM0MDAsLTk5ODY0OTg1MywxNzQ1MDgyODk3
-LC01MjU3ODc5OTUsNTU2Njk0NDQ0XX0=
+eyJoaXN0b3J5IjpbLTQxNzcyODQwNiwyNDM5Mjc5MzksLTM0OD
+E4NDcxLC0xMzY1NzIzNDAwLC05OTg2NDk4NTMsMTc0NTA4Mjg5
+NywtNTI1Nzg3OTk1LDU1NjY5NDQ0NF19
 -->
