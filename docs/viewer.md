@@ -87,16 +87,18 @@ The top button is the "Switch Orientation" button. It has a label indicating the
 
 ![enter image description here](https://i.imgur.com/QX4y3MH.png)
 
-> **Pro tip**: orientations can also be toggled by pressing the **X** on your keyboard.
+> **Pro tip**: orientations can also be toggled by pressing the **X** key on your keyboard.
 > 
 #### Two Image View
+The second button on the toolbar has a stylized "2". This is used to toggle between the main multi-paneled view and a view with two large images side-by-side. This view is particularly useful for doing voxel-by-voxel comparisons of either the images or their underling spectra.
+
 #### Spectrum Viewer
 #### Algorithms
 #### Contouring
 #### Voxel-by-Voxel Comparison
 #### Metadata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzOTI3OTM5LC0zNDgxODQ3MSwtMTM2NT
-cyMzQwMCwtOTk4NjQ5ODUzLDE3NDUwODI4OTcsLTUyNTc4Nzk5
-NSw1NTY2OTQ0NDRdfQ==
+eyJoaXN0b3J5IjpbODA2NzM5NzM2LDI0MzkyNzkzOSwtMzQ4MT
+g0NzEsLTEzNjU3MjM0MDAsLTk5ODY0OTg1MywxNzQ1MDgyODk3
+LC01MjU3ODc5OTUsNTU2Njk0NDQ0XX0=
 -->
