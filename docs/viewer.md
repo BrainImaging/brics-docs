@@ -96,14 +96,14 @@ The second button on the toolbar has a stylized "2". This is used to toggle betw
 > **Pro tip**: the two-image view can also be toggled by pressing the **T** key on your keyboard.
 
 #### Spectrum Viewer
-The third button with a spectral waveform is used for bringing up underlying spectra for a given voxel. T
+The third button with a spectral waveform is used for bringing up underlying spectra for a given voxel. When you click a specific voxel in the image plane (on either the primary image in the multi-image view, or on either image in the two-image view
 
 #### Algorithms
 #### Contouring
 #### Voxel-by-Voxel Comparison
 #### Metadata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODM0ODE4MywyNDM5Mjc5MzksLTM0OD
-E4NDcxLC0xMzY1NzIzNDAwLC05OTg2NDk4NTMsMTc0NTA4Mjg5
-NywtNTI1Nzg3OTk1LDU1NjY5NDQ0NF19
+eyJoaXN0b3J5IjpbMjY0NzM1OTQ5LDI0MzkyNzkzOSwtMzQ4MT
+g0NzEsLTEzNjU3MjM0MDAsLTk5ODY0OTg1MywxNzQ1MDgyODk3
+LC01MjU3ODc5OTUsNTU2Njk0NDQ0XX0=
 -->
