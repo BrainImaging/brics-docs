@@ -1,6 +1,6 @@
 # Introduction
 
-> Created by Saumya Gurbani
+> Written by Saumya Gurbani
 
 Welcome to the official user guide for BrICS - the Brain Imaging Collaboration Suite. This guide serves to provide documentation on how to use this application as a user or administrator. It does not cover developer documentation; that can be found on the project's [GitHub repository](https://github.com/sgurbani/brics).
 > **Note**: the BrICS project is currently stored in a private repository. Contact one of the members of the Shim Lab if you are interested in becoming a developer. A licensing agreement and inter-institutional research agreement may be necessary for researchers outside of Emory University.
@@ -18,11 +18,8 @@ This guide consists of several chapters, each of which can be accessed from the 
  - **Contouring** - how to make, view, and export contours
  - **Algorithms** - an overview of the additional algorithm modules available in BrICS
 
-
-
-Copyright 2019 Saumya Gurbani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzMzNzc3MSwtNDU0NDAxNzUsLTE3MD
-E3MDUzNTUsMjA3ODAwOTMzMyw0NTY4ODAzODIsMTkxNzUzNzQ4
-OCwtMTA4NTM4MTg1Ml19
+eyJoaXN0b3J5IjpbNjExOTMxMzYzLDEzODczMzc3NzEsLTQ1ND
+QwMTc1LC0xNzAxNzA1MzU1LDIwNzgwMDkzMzMsNDU2ODgwMzgy
+LDE5MTc1Mzc0ODgsLTEwODUzODE4NTJdfQ==
 -->
