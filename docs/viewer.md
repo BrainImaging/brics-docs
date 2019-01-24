@@ -48,7 +48,8 @@ Every series has its own UID for identification.
 ### Atlas
 An Atlas is a special Series that, rather than containing any real imaging data, contains an anatomic atlas indicating different parts of the brain. It is based from a standard atlas, and is registered onto the reference series for this Study. It is used in some algorithms when it is necessary to mask or extract certain components of the brain, for example the ventricles.
 
-When a Study is created, either by importing from MIDAS or from a DICOM series, an Atlas will be generated. Additionally, there is an algorithm in the main BrICS UI that allows one to generate an Atlas if one does not exist (mainly, this is u
+When a Study is created, either by importing from MIDAS or from a DICOM series, an Atlas will be generated. Additionally, there is an algorithm in the main BrICS UI that allows one to generate an Atlas if one does not exist (mainly, this is used for legacy data that was imported into an older version of BrICS).
+
 ### Structure
 
 A Structure, also known as a contour, represents a segmentation on top of an image. It can be used for annotating different parts of the image, for identifying a target volume, or for indicating a region-of-interest.
@@ -108,7 +109,7 @@ The third button with a spectral waveform is used for bringing up underlying spe
 #### Voxel-by-Voxel Comparison
 #### Metadata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0NjY0MDE1LDI2NDczNTk0OSwyNDM5Mj
-c5MzksLTM0ODE4NDcxLC0xMzY1NzIzNDAwLC05OTg2NDk4NTMs
-MTc0NTA4Mjg5NywtNTI1Nzg3OTk1LDU1NjY5NDQ0NF19
+eyJoaXN0b3J5IjpbMTkzNjg3MDU2MSwyNjQ3MzU5NDksMjQzOT
+I3OTM5LC0zNDgxODQ3MSwtMTM2NTcyMzQwMCwtOTk4NjQ5ODUz
+LDE3NDUwODI4OTcsLTUyNTc4Nzk5NSw1NTY2OTQ0NDRdfQ==
 -->
