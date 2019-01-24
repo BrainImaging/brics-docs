@@ -12,6 +12,7 @@ A(Project) --> B(Subject)
 B --> C(Study)
 C --> D(Series)
 C --> E(Structure)
+C--> F(Atlas)
 ```
 ### Project
 A project is the top-level object in the hierarchy, and represents a group of subjects who are to be analyzed together. It can be all the subjects within a clinical study, for example, or all the subjects for a particular analysis that you are trying to do. The Project level is also where authentication occurs for users; users are assigned to specific Projects, and if they don't have access to a Project, they  cannot access any of the data within that project.
@@ -44,6 +45,8 @@ A Series is a 3D image, either acquired directly from the scanner or generated f
 #### UID
 Every series has its own UID for identification.
 
+### Atlas
+An Atlas is a special Series that, rather than containing any real imaging data, contains an anatomic atlas indicating different parts of the brain. It is based f
 ### Structure
 
 A Structure, also known as a contour, represents a segmentation on top of an image. It can be used for annotating different parts of the image, for identifying a target volume, or for indicating a region-of-interest.
@@ -103,7 +106,7 @@ The third button with a spectral waveform is used for bringing up underlying spe
 #### Voxel-by-Voxel Comparison
 #### Metadata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NzM1OTQ5LDI0MzkyNzkzOSwtMzQ4MT
-g0NzEsLTEzNjU3MjM0MDAsLTk5ODY0OTg1MywxNzQ1MDgyODk3
-LC01MjU3ODc5OTUsNTU2Njk0NDQ0XX0=
+eyJoaXN0b3J5IjpbLTk2NTc1OTI4NSwyNjQ3MzU5NDksMjQzOT
+I3OTM5LC0zNDgxODQ3MSwtMTM2NTcyMzQwMCwtOTk4NjQ5ODUz
+LDE3NDUwODI4OTcsLTUyNTc4Nzk5NSw1NTY2OTQ0NDRdfQ==
 -->
