@@ -67,7 +67,7 @@ This field indicates whether all the spectra in this project are inverted (i.e. 
 This field indicates whether or not to normalize all metabolite series by contralateral normal appearing white matter (NAWM). See below for which options are available for normalization. In most cases, you want this to be set to **True**.
 
 ### autonorm_algorithm
-There are currently two NAWM algorithms available i
+There are currently two NAWM algorithms available in BrICS. The first is the Cho/NAA Gaussian Mixture Model (Cho/NAA GMM), which uses the Cho/NAA map to find the distribution between normal and pathologic tissue. (see Gurbani et. al., *Tomography* 2019). The second is to use a T1-based segmentation built into MIDAS; this second option requires the nawm utility in MIDAS to be run as part of batch processing. By default, we recommend using the MIDAS NAWM algorithm.
 
 ### redcap
 This set of fields allows this BrICS project to be connected to a REDCap database for pulling in subject metadata.
@@ -173,5 +173,5 @@ There was an error in the test script itself, and so the test could not be compl
 ![enter image description here](https://i.imgur.com/WrsFVTX.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzA5Njk3MywxOTUwNzQwODg2XX0=
+eyJoaXN0b3J5IjpbLTE3NDYzNzcxNzgsMTk1MDc0MDg4Nl19
 -->
