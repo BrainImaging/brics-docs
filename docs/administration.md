@@ -64,7 +64,10 @@ Find the folder for the MIDAS project. This must be the folder where the project
 This field indicates whether all the spectra in this project are inverted (i.e. upside-down). This occurs on some scanners / sequences  when there is a 180 degree phase shift. MIDAS will usually fix this during its phase-correction, and so for most projects, select **False** for this field. However, for projects where the spectra do appear upside-down, select **True**.
 
 ### autonorm
-This field indicates whether or not the Gaussian Mixture Model autonormalization algorithm (see Gurbani et. al., *Tomography* 2019) for ratio images. In most cases, you want this to be set to **True**.
+This field indicates whether or not to normalize all metabolite series by contralateral normal appearing white matter (NAWM). See below for which options are available for normalization. In most cases, you want this to be set to **True**.
+
+### autonorm_algorithm
+There are currently two NAWM algorithms available i
 
 ### redcap
 This set of fields allows this BrICS project to be connected to a REDCap database for pulling in subject metadata.
@@ -170,5 +173,5 @@ There was an error in the test script itself, and so the test could not be compl
 ![enter image description here](https://i.imgur.com/WrsFVTX.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDc0MDg4Nl19
+eyJoaXN0b3J5IjpbMTQ1MzA5Njk3MywxOTUwNzQwODg2XX0=
 -->
